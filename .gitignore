@@ -163,4 +163,4 @@ cython_debug/
 
 # for obsidian
 .obsidian/
-.DS_Store/
+*.DS_Store
