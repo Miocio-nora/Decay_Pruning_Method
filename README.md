@@ -71,7 +71,7 @@ In this benchmark, DPM notably increased the accuracy of OTOv2 by **0.4%** and r
 |                     |                           |                               |      
 | Depgraph w/o SL [[10]](#10)| 47.2%                     | 69.7%                         | 93.32%                        |
 | *+SP* (Ours)        | 46.7% <sup>-0.5%↓</sup>   | 68.1% <sup>-1.6%↓</sup>       | 93.62% <sup>+0.3%↑</sup>      |
-| *+SR* (Ours)        | 47.1% <sup>-0.1%↓</sup>   | 65.73% <sup>-2.4%↓</sup>      | 93.71% <sup>+0.39%↑</sup>     |
+| *+SR* (Ours)        | 47.1% <sup>-0.1%↓</sup>   | 65.7% <sup>-4.0%↓</sup>      | 93.71% <sup>+0.39%↑</sup>     |
 
 **Notations:**
 
