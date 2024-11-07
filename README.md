@@ -19,8 +19,7 @@ Our **DPM** contains two procedures:
   * ***Smooth Pruning (SP):*** *SP* is a multi-step pruning process that gradually decays the weights of redundant structures to zero over N steps while maintaining continuous optimization. This approach minimizes drastic network changes and enhances information retention during pruning.
   * ***Self-Rectifying (SR):*** *SR* employs a gradient-driven approach to assess the resistance of decaying structures, effectively correcting sub-optimal pruning decisions and enabling more adaptive and optimal pruning decisions.
   
-
-<!-- More technical details of DPM are available at our preprint paper: [**Decay Pruning Method: Smooth Pruning With a Self-Rectifying Procedure**](https://arxiv.org/abs/2406.03879)   --> 
+More technical details of DPM are available at our preprint paper: [**Decay Pruning Method: Smooth Pruning With a Self-Rectifying Procedure**](https://arxiv.org/abs/2406.03879)
 
 ## TODO List.
 - [ ] Add integration examples and tutorials for [Depgraph](https://github.com/VainF/Torch-Pruning) and [gate-decorator](https://github.com/youzhonghui/gate-decorator-pruning). 
